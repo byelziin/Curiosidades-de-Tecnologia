@@ -3,7 +3,7 @@
 
 🔖 Sobre:
 
-Meu **primeiro** projeto/site finalizado, com auxílio do curso de  _**HTML E CSS**_ na plataforma **Curso em vídeo**, disponiblizado pelo **Gustavo Guanabara**.
+Meu **primeiro** projeto/site com a primeira página finalizado, com auxílio do curso de  _**HTML E CSS**_ na plataforma **Curso em vídeo**, disponiblizado pelo **Gustavo Guanabara**.
 
  📑 Tarefas: 
   
